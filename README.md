@@ -1,5 +1,10 @@
 # 💫 About Me:
-🎓 I'm a Software Engineering student at the [Institute of Software Engineering (IJSE)](https://www.ijse.lk)<br><br>💻 Passionate about full-stack development using Java <br><br>🎨 Love designing clean, responsive UIs with HTML, CSS, JavaScript, and Bootstrap<br><br>🔧 Skilled in turning real-world problems into functional software systems <br><br>🚀 Goal: Become a professional full-stack Java developer<br><br>📫 Email: binuj714@gmail.com
+🎓 I'm a Software Engineering student at the [Institute of Software Engineering (IJSE)](https://www.ijse.lk)<br><br>
+💻 Passionate about full-stack development using Java <br><br>
+🎨 Love designing clean, responsive UIs with HTML, CSS, JavaScript, and Bootstrap<br><br>
+🔧 Skilled in turning real-world problems into functional software systems <br><br>
+🚀 Goal: Become a professional full-stack Java developer<br><br>
+📫 Email: binuj714@gmail.com
 
 <br>
 
@@ -45,6 +50,10 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Binu0714&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Binu0714&icon=0&color=0" alt="Visitor Count"/>
+  </a>
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
