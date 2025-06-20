@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a Software Engineering student at the Institute of Software Engineering (IJSE)<br><br>💻 Passionate about full-stack development using Java <br><br>🎨 Love designing clean, responsive UIs with HTML, CSS, JavaScript, and Bootstrap<br><br>🔧 Skilled in turning real-world problems into functional software systems <br><br>🚀 Goal: Become a professional full-stack Java developer<br><br>📫 Email: binuj714@gmail.com
+🎓 I'm a Software Engineering student at the [Institute of Software Engineering (IJSE)](https://www.ijse.lk)<br><br>💻 Passionate about full-stack development using Java <br><br>🎨 Love designing clean, responsive UIs with HTML, CSS, JavaScript, and Bootstrap<br><br>🔧 Skilled in turning real-world problems into functional software systems <br><br>🚀 Goal: Become a professional full-stack Java developer<br><br>📫 Email: binuj714@gmail.com
 
 <br>
 
