@@ -6,6 +6,15 @@
 🚀 Goal: Become a professional full-stack Java developer<br><br>
 📫 Email: binuj714@gmail.com
 
+<p align="left">
+  <a href="https://github.com/Binu0714">
+    <img src="https://komarev.com/ghpvc/?username=Binu0714&label=Profile%20views&color=0e75b6&style=flat" alt="Binu0714" />
+  </a>
+  <a href="https://github.com/Binu0714?tab=followers">
+    <img src="https://img.shields.io/github/followers/Binu0714?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+</p>
+
 <br>
 
 ## 🌐 Socials:
