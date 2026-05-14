@@ -4,6 +4,7 @@
 🎨 Love designing clean, responsive UIs with HTML, CSS, JavaScript, and Bootstrap<br><br>
 🔧 Skilled in turning real-world problems into functional software systems <br><br>
 🚀 Goal: Become a professional full-stack Java developer<br><br>
+🌐 Portfolio: https://your-portfolio-link.com<br><br>
 📫 Email: binuj714@gmail.com
 
 <p align="left">
